@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.vite/
+.npm-cache/
+.DS_Store
+*.log
+.env
+.env.*
+*.local
+*.pyc
+__pycache__/
+
+# Local workspace and prototype evidence
+/AGENTS.md
+/design-qa.md
+/进度.md
+/交付件/
+/过程文件/
+/制作工具/
+/资料/
+/.openai/
+/worker/
+/scripts/prepare-sites-build.mjs
+/tests/sites-worker.test.mjs
